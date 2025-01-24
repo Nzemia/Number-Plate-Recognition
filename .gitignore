@@ -1,7 +1,10 @@
+/.idea/
 /videos/
 /runs/
 /models/
 /.venv/
+/__pycache__/
+
 out.mp4
 test.csv
 test_interpolated.csv
