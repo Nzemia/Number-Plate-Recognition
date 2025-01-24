@@ -1,0 +1,8 @@
+/videos/
+/runs/
+/models/
+/.venv/
+out.mp4
+test.csv
+test_interpolated.csv
+yolov8n.pt
